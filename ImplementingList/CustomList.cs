@@ -173,6 +173,7 @@ namespace ImplementingList
                     sourceArray[i] = sourceArray[i - 1]; 
                 }
                 sourceArray[index] = item;
+                Count++;
             }
             else
             {
