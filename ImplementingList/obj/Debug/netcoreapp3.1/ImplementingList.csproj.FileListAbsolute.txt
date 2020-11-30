@@ -1,0 +1,13 @@
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.exe
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.deps.json
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.json
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.runtimeconfig.dev.json
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.dll
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\bin\Debug\netcoreapp3.1\ImplementingList.pdb
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csprojAssemblyReference.cache
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfoInputs.cache
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.AssemblyInfo.cs
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.csproj.CoreCompileInputs.cache
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.dll
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.pdb
+C:\Users\holdbetter\source\repos\ImplementingList\ImplementingList\obj\Debug\netcoreapp3.1\ImplementingList.genruntimeconfig.cache
